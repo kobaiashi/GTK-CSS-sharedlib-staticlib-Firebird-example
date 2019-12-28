@@ -1,0 +1,4 @@
+*.o
+out_app
+resources.c
+*~

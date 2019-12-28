@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gtk/out_app">
+    <file preprocess="xml-stripblanks">window_main.glade</file>
+    <file>a.css</file>
+    <file>reset.css</file>
+  </gresource>
+</gresources>
