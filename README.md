@@ -6,8 +6,8 @@ GTK template
 
 
 For testing use
-./start.h 
+./start.sh 
 or
-./start.h -d
+./start.sh -d
 
 
