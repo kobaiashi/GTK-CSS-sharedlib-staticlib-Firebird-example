@@ -1,6 +1,6 @@
 # GTK-CSS-sharedlib-staticlib-Firebird-example
 GTK template 
-1° main makefile gresource (css , glade(xml)) , fbq (firebird embeddedd C sql) , callbacks (dynamic)
+1° main makefile gresource (css , glade(xml)) , fbq (firebird embedded C sql) , callbacks (dynamic)
 
 2° makefile for shared libray 
 
