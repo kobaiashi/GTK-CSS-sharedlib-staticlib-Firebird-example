@@ -4,7 +4,7 @@
 /* Set a very futuristic style by default */
 * {
   color: #ff0000;
-  font-family: Bitstream Charter;
+/*   font-family: Bitstream Charter; */
   font-size: 12px;
   border: 0px solid;
 }
@@ -17,14 +17,14 @@
 
 #b1_css* {
   color: #22eebb;
-  font-family: Droid Sans;
+  /* font-family: Droid Sans; */
   font-size: 16px;
   border: 2px solid;
 }
 
 #b2_css* {
   color: #22ee00;
-  font-family: Droid Sans;
+  /* font-family: Droid Sans; */
   font-size: 18px;
   border: 1px solid;
 }
